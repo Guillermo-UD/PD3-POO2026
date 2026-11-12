@@ -1,0 +1,8 @@
+*.class
+*.jar
+/build/
+/bin/
+/out/
+/target/
+.vscode/
+nbproject/private/

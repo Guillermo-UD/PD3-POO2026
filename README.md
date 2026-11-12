@@ -1,13 +1,18 @@
 # Calculadora Java - Arquitectura MVC (`PD3-POO2026`)
 
 En el repositorio se encuentra la informacion y archivos solicitados para le entrega de la PD 3 de **Programación Orientada a Objetos (POO)**
-en el repositorio se contiene el diagrama de clases UML hecho en memermaid.ai, el código de la calculadora bajo el patron de arquitectura **Modelo-Vista-Controlador (MVC)** hecho en el lenguaje de programacion **JAVA**
+en el repositorio se contiene el diagrama de clases UML hecho en memermaid.ai, el código de la calculadora bajo el patrón de arquitectura **Modelo-Vista-Controlador (MVC)** hecho en el lenguaje de programacion **JAVA** y el enlace al video sobre cual es la mejor estrategia a la hora de agregar nuevas operaciones a la calculadora
+
+## Enlace al video
+**https://youtu.be/HKpz5hwwfpc**
 
 ## Acceso Directo al Código Fuente
 
 * [**Explorar todo el código fuente (`src/`)**](./src)
   * **Modelo:** [`src/modelo/CalcModel.java`](./src/modelo/CalcModel.java) — Contiene la lógica matemática y el manejo de datos de la calculadora.
   * **Vista:** [`src/vista/CalcView.java`](./src/vista/CalcView.java) — Define los componentes de la interfaz gráfica de usuario.
+  * **Controlador:** [`src/controlador/CalcController.java`](./src/controlador/CalcController.java) — Gestiona la comunicación entre la vista y el modelo, manejando los eventos de la interfaz.
+  * **Clase Principal (Main):** [`src/javacalcmvc/JavaCalcMVC.java`](./src/javacalcmvc/JavaCalcMVC.java) — Punto de entrada que instancia e inicializa la aplicación.
 
 ## Diagrama de Clases UML
 

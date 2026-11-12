@@ -1,6 +1,7 @@
 # Calculadora Java - Arquitectura MVC (`PD3-POO2026`)
 
-Este repositorio contiene el desarrollo de una aplicación de calculadora escrita en **Java** para la asignatura de **Programación Orientada a Objetos (POO)**. El proyecto está estructurado bajo el patrón de arquitectura **Modelo-Vista-Controlador (MVC)**, lo que permite separar la lógica de operaciones, la interfaz gráfica y el control de eventos.
+En el repositorio se encuentra la informacion y archivos solicitados para le entrega de la PD 3 de **Programación Orientada a Objetos (POO)**
+en el repositorio se contiene el diagrama de clases UML hecho en memermaid.ai, el código de la calculadora bajo el patron de arquitectura **Modelo-Vista-Controlador (MVC)** hecho en el lenguaje de programacion **JAVA**
 
 ## Acceso Directo al Código Fuente
 
